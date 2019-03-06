@@ -309,13 +309,6 @@
                     <!-- iso section -->
                     <div class="iso-section wow fadeInUp" data-wow-delay="0.6s">
 
-                        <ul class="filter-wrapper clearfix">
-                            <li><a href="#" data-filter="*" class="selected opc-main-bg">Todo</a></li>
-                            <li><a href="#" class="opc-main-bg" data-filter=".breakfast">Ojos</a></li>
-                            <li><a href="#" class="opc-main-bg" data-filter=".pizza">Cejas</a></li>
-                            <li><a href="#" class="opc-main-bg" data-filter=".lunch">Labios</a></li>
-                        </ul>
-
                         <!-- iso box section -->
                         <div class="iso-box-section wow fadeInUp" data-wow-delay="0.9s">
                             <div class="iso-box-wrapper col4-iso-box">
@@ -331,7 +324,7 @@
                                             </div>
                                         </a>
                                     </div>
-                                    <h3>Lorem One</h3>
+                                    <h3></h3>
                                 </div>
 
                                 <div class="iso-box breakfast lunch dinner col-md-4 col-sm-6">
@@ -345,7 +338,7 @@
                                             </div>
                                         </a>
                                     </div>
-                                    <h3>Lorem ipsum two</h3>
+                                    <h3></h3>
                                 </div>
 
                                 <div class="iso-box dinner col-md-4 col-sm-6">
@@ -359,7 +352,7 @@
                                             </div>
                                         </a>
                                     </div>
-                                    <h3>Third Lorem ipsum</h3>
+                                    <h3></h3>
                                 </div>
 
                                 <div class="iso-box breakfast col-md-4 col-sm-6">
@@ -373,7 +366,7 @@
                                             </div>
                                         </a>
                                     </div>
-                                    <h3>Lorem ipsum fourth</h3>
+                                    <h3></h3>
                                 </div>
 
                                 <div class="iso-box lunch col-md-4 col-sm-6">
@@ -387,7 +380,7 @@
                                             </div>
                                         </a>
                                     </div>
-                                    <h3>Fifth Lorem ipsum</h3>
+                                    <h3></h3>
                                 </div>
 
                                 <div class="iso-box pizza lunch col-md-4 col-sm-6">
@@ -401,7 +394,7 @@
                                             </div>
                                         </a>
                                     </div>
-                                    <h3>Sixth Lorem ipsum</h3>
+                                    <h3></h3>
                                 </div>
 
                             </div>
